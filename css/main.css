@@ -682,6 +682,9 @@ link ul{
     .headerwrapper{
         width: 100%;
     }
+    .logo img{
+        width: 150px;
+    }
     .mobile{
         display: none;
     }
@@ -721,6 +724,16 @@ link ul{
     .aboutright p{
         text-align: justify;
     }
+    .photo-gallery .heading h2:after{
+        margin-left: 65px;
+    }
+    .agent h2::after{
+        margin-left: 68px;
+    }
+    .review h2::after{
+        margin-left: 68px;
+    }
+
     .gallery{
         margin: 0 auto;
         width: 100%;
